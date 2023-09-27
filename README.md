@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilhermeprado98
-- 👀 I’m interested in web development with a focus on language php,javascript,CSS and HTML.
-- 🌱 I’m currently learning I study software engineering and I'm a php programmer intern
+- 👀 I’m interested in web e app development with a focus on language PHP,javascript,CSS,HTML,JQuery,AJAX,Laravel, node.js, React, React-native, IONIC.
+- 🌱 I have a degree in Software Engineering from Unileste.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...somingues@gmail.com
 
