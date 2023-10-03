@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilhermeprado98
 - 👀 I’m interested in web e app development with a focus on language PHP,javascript,CSS,HTML,JQuery,AJAX,Laravel, node.js, Angular, React and Ionic.
-- 🌱 I have a degree in Software Engineering from Unileste.
+- 🌱 I have a degree in Software Engineering from Unileste Brazil.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...somingues@gmail.com
 
